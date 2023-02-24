@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<routes>
+  <route route_type="api" route_prefix="reports" controller="Jaysc\ReportApi:Reports"/>
+</routes>
